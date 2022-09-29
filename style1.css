@@ -5,10 +5,13 @@ body{
 }
 
 .button{
-    background: coral;
+    background: rgb(60, 105, 251);
     padding: 1em 2em;
     color: #fff;
     border: 0;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
 }
 
 .button:hover{
@@ -43,7 +46,7 @@ body{
 }
 
 .modal-header{
-    background: coral;
+    background: rgb(80, 153, 255);
     padding: 15px;
     color: #fff;
 }
@@ -53,7 +56,7 @@ body{
 }
 
 .modal-footer{
-    background: coral;
+    background: rgb(80, 138, 255);
     padding: 10px;
     color: #fff;
     text-align: center;
