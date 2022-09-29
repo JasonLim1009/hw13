@@ -1,3 +1,4 @@
 # hw13
 
-![This is an image]![image](https://user-images.githubusercontent.com/107684179/185781024-63ed1da1-93dc-4ce7-a13e-c8fdd000417e.png)
+
+![Screenshot_1](https://user-images.githubusercontent.com/107684179/192978223-ac49c0e3-ce71-484b-a658-bc52db2a518c.png)
